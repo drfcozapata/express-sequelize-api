@@ -1,4 +1,4 @@
-# RESTful API with Login using Node, Express, Sequelize, JWT and MySQL
+# RESTful API with Login using Node, Express, Sequelize, MySQL and JWT
 
 RESTful API developed to serve any Web App using Node.js, Express.js, Sequelize and MySQL with JWT Auth Login.
 
